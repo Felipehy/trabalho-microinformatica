@@ -1,0 +1,23 @@
+@keyframes messageWelcome {
+    0% {
+        opacity: 0%;
+        position: relative;
+        top: 50px;
+    }
+
+    100% {
+        opacity: 100%;
+        position: relative;
+        top: 0;
+    }
+}
+
+#welcomeConteiner {
+    animation-name: messageWelcome;
+    animation-duration: 1s;
+}
+
+#img-Conteiner {
+    animation-name: messageWelcome;
+    animation-duration: 1s;
+}
