@@ -1,0 +1,9 @@
+#input-text {
+    height: 50%;
+    width: 500px;
+}
+
+.list-item {
+    list-style: none;
+    color: black;
+}
